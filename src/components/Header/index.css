@@ -1,0 +1,26 @@
+.header-card {
+    background-image: linear-gradient(to right, #fff, #4d4e4f, #000);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: 0px 0px 10px 20px #000;
+}
+
+.logo-name {
+    font-family:'Roboto';
+}
+.list {
+    padding: 0px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between  ;
+    width: 20%;
+}
+.logo {
+    font-size: 20px;
+}
